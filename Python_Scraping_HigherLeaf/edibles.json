@@ -1,0 +1,1435 @@
+{
+    "edibles": [
+        {
+            "ID": "1",
+            "Brand": "C4",
+            "Title": "CBD Canna Burst - Berry Bomb Fruit Chews",
+            "Type": "$25",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/JMS+C4+Canna+Burst+Berry+Bomb.jpg?tr=w-320"
+        },
+        {
+            "ID": "2",
+            "Brand": "C4",
+            "Title": "Canna Burst - Berry Bomb Indica Fruit Chews",
+            "Type": "$25",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Berry%20Bomb%20Indica.jpg?tr=w-320"
+        },
+        {
+            "ID": "3",
+            "Brand": "C4",
+            "Title": "Canna Burst - Berry Bomb Sativa Fruit Chews",
+            "Type": "$6 - $25",
+            "Price": "Sativa",
+            "Amount": "(2pk - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Berry%20Bomb%20Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "4",
+            "Brand": "C4",
+            "Title": "Canna Burst - Grape Grenade Indica Fruit Chews",
+            "Type": "$6",
+            "Price": "Indica",
+            "Amount": "(2pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Grape%20Grenade%20Indica.jpg?tr=w-320"
+        },
+        {
+            "ID": "5",
+            "Brand": "C4",
+            "Title": "Canna Burst - Grape Grenade Sativa Fruit Chews",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Grape%20Grenade%20Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "6",
+            "Brand": "C4",
+            "Title": "Canna Burst - Lemon Blast Sativa Fruit Chews",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Lemon%20Burst%20Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "7",
+            "Brand": "C4",
+            "Title": "Canna Burst - Mango Mortar Indica Fruit Chews",
+            "Type": "$25",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Mango%20Mortar%20Indica.jpg?tr=w-320"
+        },
+        {
+            "ID": "8",
+            "Brand": "C4",
+            "Title": "Canna Burst - Mango Mortar Sativa Fruit Chews",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Mango%20Mortar%20Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "9",
+            "Brand": "C4",
+            "Title": "Canna Burst - Strawberry Surge Indica Fruit Chews",
+            "Type": "$6 - $25",
+            "Price": "Indica",
+            "Amount": "(2pk - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Strawberry%20Surge%20Indica.jpg?tr=w-320"
+        },
+        {
+            "ID": "10",
+            "Brand": "C4",
+            "Title": "Canna Burst - Strawberry Surge Sativa Fruit Chews",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Canna%20Burst%20C4%20Chews%20Strawberry%20Surge%20Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "11",
+            "Brand": "C4",
+            "Title": "Pineapple Pucker Sativa",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FGeneric+Canna+Burst.webp-823fcfae-bac0-4439-8a84-2b5ac86e9591?tr=w-320"
+        },
+        {
+            "ID": "12",
+            "Brand": "C4",
+            "Title": "Watermelon Whizbang Indica",
+            "Type": "$25",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FCannaburst%2BC4%2BWatermelon%2BWhizbang%2BEdible%2BCandy.jpg-66db62d3-a5a4-42e0-8247-7de46fda4da?tr=w-320"
+        },
+        {
+            "ID": "13",
+            "Brand": "C4",
+            "Title": "Watermelon Whizbang Sativa",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FCannaburst%2BC4%2BWatermelon%2BWhizbang%2BEdible%2BCandy.jpg-1ea73d32-f4cd-4498-9962-d8fc7b2061e?tr=w-320"
+        },
+        {
+            "ID": "14",
+            "Brand": "Ceres",
+            "Title": "Assorted Chocolates",
+            "Type": "$22",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres+Assorted+Chocolate+Bites+Edible+Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "15",
+            "Brand": "Ceres",
+            "Title": "Assorted Chocolates Indica",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres+Assorted+Chocolate+Bites+Edible+Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "16",
+            "Brand": "Ceres",
+            "Title": "Dark Chocolate Bites - Indica",
+            "Type": "$3",
+            "Price": "Indica",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres+Garden+Logo.jpg?tr=w-320"
+        },
+        {
+            "ID": "17",
+            "Brand": "Ceres",
+            "Title": "Dark Chocolate Bites - Sativa",
+            "Type": "$3",
+            "Price": "Sativa",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres+Garden+Logo.jpg?tr=w-320"
+        },
+        {
+            "ID": "18",
+            "Brand": "Ceres",
+            "Title": "Dragon Ball Single - Indica",
+            "Type": "$4",
+            "Price": "Indica",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Dragon%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "19",
+            "Brand": "Ceres",
+            "Title": "Dragon Ball Single - Sativa",
+            "Type": "$4",
+            "Price": "Sativa",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Dragon%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "20",
+            "Brand": "Ceres",
+            "Title": "Dragon Balls - Indica",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Dragon%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "21",
+            "Brand": "Ceres",
+            "Title": "Dragon Balls - Sativa",
+            "Type": "$22",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Dragon%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "22",
+            "Brand": "Ceres",
+            "Title": "Indica Cookies n' Cream Chocolate Bites",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/satori%2FCeresCookiesNCream.png-e31aacc5-c232-4291-9427-3fb199a2a366?tr=w-320"
+        },
+        {
+            "ID": "23",
+            "Brand": "Ceres",
+            "Title": "Indica Malt Balls",
+            "Type": "$25",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Indica%20Malt%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "24",
+            "Brand": "Ceres",
+            "Title": "Milk Chocolate CBD 1:1 Indica",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FCBD+Milk.jpg-7d611fc7-8872-441b-8c2a-90e7fc9fcf3b?tr=w-320"
+        },
+        {
+            "ID": "25",
+            "Brand": "Ceres",
+            "Title": "Milk Chocolate CBD 1:1 Sativa",
+            "Type": "$22",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FCBD+Milk.jpg-7d611fc7-8872-441b-8c2a-90e7fc9fcf3b?tr=w-320"
+        },
+        {
+            "ID": "26",
+            "Brand": "Ceres",
+            "Title": "Mint Chocolate Bites - Indica",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FMint+Chocolate.jpg-5cef2483-1232-4e60-a1e4-785d0e07efe?tr=w-320"
+        },
+        {
+            "ID": "27",
+            "Brand": "Ceres",
+            "Title": "Mint Chocolate Bites - Sativa",
+            "Type": "$22",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FMint+Chocolate.jpg-5cef2483-1232-4e60-a1e4-785d0e07efe?tr=w-320"
+        },
+        {
+            "ID": "28",
+            "Brand": "Ceres",
+            "Title": "Salted Caramel Balls Indica",
+            "Type": "$4",
+            "Price": "Hybrid",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Salted%20Caramel%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "29",
+            "Brand": "Ceres",
+            "Title": "Salted Caramel Balls Indica",
+            "Type": "$22",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Salted%20Caramel%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "30",
+            "Brand": "Ceres",
+            "Title": "Salted Caramel Balls Sativa",
+            "Type": "$4 - $22",
+            "Price": "Sativa",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Salted%20Caramel%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "31",
+            "Brand": "Ceres",
+            "Title": "Sativa Cookies n' Cream Chocolate Bites",
+            "Type": "$25",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/satori%2FCeresCookiesNCream.png-a695da5b-22c-498a-9b84-643489edc560?tr=w-320"
+        },
+        {
+            "ID": "32",
+            "Brand": "Ceres",
+            "Title": "Sativa Malt Balls",
+            "Type": "$22",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Ceres%20Sativa%20Malt%20Balls.jpg?tr=w-320"
+        },
+        {
+            "ID": "33",
+            "Brand": "Constellation Cannabis",
+            "Title": "Space Capsules 100mg",
+            "Type": "$25",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FCTA+Space+Caps.jpg-c77bb290-b85e-40ab-8a22-221bf2e239e1?tr=w-320"
+        },
+        {
+            "ID": "34",
+            "Brand": "Fairwinds",
+            "Title": "CBD Deeper Sleep",
+            "Type": "$32",
+            "Price": "High CBD",
+            "Amount": "(15pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/FairwindsDeeperSleepCapsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "35",
+            "Brand": "Fairwinds",
+            "Title": "CBD FECO 10:1 ",
+            "Type": "$39",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20FECO%2010-1%20CBD-THC%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "36",
+            "Brand": "Fairwinds",
+            "Title": "CBD Ratio 10:1",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Ratio%2010-1%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "37",
+            "Brand": "Fairwinds",
+            "Title": "CBD Ratio 1:1",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Ratio%201-1%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "38",
+            "Brand": "Fairwinds",
+            "Title": "CBD Ratio 20:1",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(15pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Ratio%2020-1%20Capsules%20Pkg.jpg?tr=w-320"
+        },
+        {
+            "ID": "39",
+            "Brand": "Fairwinds",
+            "Title": "CBD Ratio 5:1",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(15pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Ratio%205-1%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "40",
+            "Brand": "Fairwinds",
+            "Title": "FECO 2:1 CBD:THC",
+            "Type": "$39",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20FECO%202-1%20CBD-THC%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "41",
+            "Brand": "Fairwinds",
+            "Title": "Lifestyle Indica",
+            "Type": "$28",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Lifestyle%20Indica%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "42",
+            "Brand": "Fairwinds",
+            "Title": "Lifestyle Sativa",
+            "Type": "$28",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Fairwinds%20Lifestyle%20Sativa%20Capsules.jpg?tr=w-320"
+        },
+        {
+            "ID": "43",
+            "Brand": "Flav",
+            "Title": "Apple Sour Belt Bites",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/FlavEdibleCandyHyridApplebelts.jpg?tr=w-320"
+        },
+        {
+            "ID": "44",
+            "Brand": "Flav",
+            "Title": "CBD Rainbow Sour Belt Bites 1:1",
+            "Type": "$28",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Phat%20N%20Sticky%20Flav%20Rainbow%20Belts.jpg?tr=w-320"
+        },
+        {
+            "ID": "45",
+            "Brand": "Flav",
+            "Title": "Mango Sour Belt Bites",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Phat%20N%20Sticky%20Flav%20Mango%20Belts.jpg?tr=w-320"
+        },
+        {
+            "ID": "46",
+            "Brand": "Flav",
+            "Title": "Pink Lemonade Sour Belt Bites",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/FlavEdibleCandyHyridBeltsPinkLemonade.jpg?tr=w-320"
+        },
+        {
+            "ID": "47",
+            "Brand": "Flav",
+            "Title": "Rainbow Sour Belt Bites",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Phat%20N%20Sticky%20Flav%20Rainbow%20Belts.jpg?tr=w-320"
+        },
+        {
+            "ID": "48",
+            "Brand": "Flav",
+            "Title": "Watermelon Sour Belt Bites",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Phat%20N%20Sticky%20Flav%20Watermelon%20Belts.jpg?tr=w-320"
+        },
+        {
+            "ID": "49",
+            "Brand": "Green Revolution",
+            "Title": "CBD Fast Tabs Remarkable Nighttime Tablets",
+            "Type": "$54",
+            "Price": "High CBD",
+            "Amount": "(50pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Green+Revolution+Fast+Tabs+Nighttime+Capsule+Edible.jpg?tr=w-320"
+        },
+        {
+            "ID": "50",
+            "Brand": "Green Revolution",
+            "Title": "CBD Fast Tabs Vitality Tablets",
+            "Type": "$54",
+            "Price": "High CBD",
+            "Amount": "(50pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Green+Revolution+Vitality+Fast+Tabs+Capsule+Edible.jpg?tr=w-320"
+        },
+        {
+            "ID": "51",
+            "Brand": "Green Revolution",
+            "Title": "CBD Happiest Self Fast Tabs",
+            "Type": "$54",
+            "Price": "High CBD",
+            "Amount": "(50pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Green+Revolution+Fast+Tabs+Happiest+Self+Edible+Capsule.jpg?tr=w-320"
+        },
+        {
+            "ID": "52",
+            "Brand": "Hellavated",
+            "Title": "Mango Dragon Gummiez",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/greentheory%2Fhellavated+gummmies.jpg-553cba35-65d8-4197-acee-f7e571a093ca?tr=w-320"
+        },
+        {
+            "ID": "53",
+            "Brand": "Hellavated",
+            "Title": "Raspberry Blitz Gummiez",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/greentheory%2Fhellavated+gummmies.jpg-553cba35-65d8-4197-acee-f7e571a093ca?tr=w-320"
+        },
+        {
+            "ID": "54",
+            "Brand": "Hellavated",
+            "Title": "Strawberry Haze Gummiez",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/greentheory%2Fhellavated+gummmies.jpg-553cba35-65d8-4197-acee-f7e571a093ca?tr=w-320"
+        },
+        {
+            "ID": "55",
+            "Brand": "Hellavated",
+            "Title": "Water 'Yer Melon Gummiez",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/greentheory%2Fhellavated+gummmies.jpg-553cba35-65d8-4197-acee-f7e571a093ca?tr=w-320"
+        },
+        {
+            "ID": "56",
+            "Brand": "Honu",
+            "Title": "Blackberry Lemon",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Blackberry%20Lemon%20Chocolates.jpg?tr=w-320"
+        },
+        {
+            "ID": "57",
+            "Brand": "Honu",
+            "Title": "CBD Peanut Butter Cup ",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu+Peanut+Butter+Cups+Edibles+Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "58",
+            "Brand": "Honu",
+            "Title": "Chocolate Caramel Indica",
+            "Type": "$30",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Chocolate%20Caramels.jpg?tr=w-320"
+        },
+        {
+            "ID": "59",
+            "Brand": "Honu",
+            "Title": "Chocolate Caramel Sativa",
+            "Type": "$30",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Chocolate%20Caramels.jpg?tr=w-320"
+        },
+        {
+            "ID": "60",
+            "Brand": "Honu",
+            "Title": "Chocolate Turtles Indica",
+            "Type": "$30",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Chcolate%20Turtles.jpg?tr=w-320"
+        },
+        {
+            "ID": "61",
+            "Brand": "Honu",
+            "Title": "Chocolate Turtles Sativa",
+            "Type": "$30",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Chcolate%20Turtles.jpg?tr=w-320"
+        },
+        {
+            "ID": "62",
+            "Brand": "Honu",
+            "Title": "Cookies N Cream",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FHonu+Cookies-and-Cream-single.jpg-fbb44248-351-46db-95ba-6ca2641e1f1f?tr=w-320"
+        },
+        {
+            "ID": "63",
+            "Brand": "Honu",
+            "Title": "Dark Chocolate",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Dark%20Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "64",
+            "Brand": "Honu",
+            "Title": "Dark Chocolate Peppermint",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FHONU+Dark+mint.jpeg-59dc2c8e-cdfc-4d60-93f0-871e8e77946b?tr=w-320"
+        },
+        {
+            "ID": "65",
+            "Brand": "Honu",
+            "Title": "Gimme Sa'More!",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu%20Gimme%20Sa%27more.jpg?tr=w-320"
+        },
+        {
+            "ID": "66",
+            "Brand": "Honu",
+            "Title": "Milk Chocolate",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2Fmilk+choc.jpeg-f24a153-8d91-41dd-a574-ca9054c8ecf2?tr=w-320"
+        },
+        {
+            "ID": "67",
+            "Brand": "Honu",
+            "Title": "Milk Chocolate Toffee Crunch",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu+Toffee.jpg?tr=w-320"
+        },
+        {
+            "ID": "68",
+            "Brand": "Honu",
+            "Title": "Orange Dreamsicle",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/honuorange.png?tr=w-320"
+        },
+        {
+            "ID": "69",
+            "Brand": "Honu",
+            "Title": "Peanut Butter Cup Indica",
+            "Type": "$30",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu+Peanut+Butter+Cups+Edibles+Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "70",
+            "Brand": "Honu",
+            "Title": "Peanut Butter Cup Sativa",
+            "Type": "$30",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Honu+Peanut+Butter+Cups+Edibles+Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "71",
+            "Brand": "Hot Sugar",
+            "Title": "Blue Raspberry Fruit Drops",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/blueraspberry.png?tr=w-320"
+        },
+        {
+            "ID": "72",
+            "Brand": "Hot Sugar",
+            "Title": "Blue Raspberry Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Blue%20Raspberry.jpg?tr=w-320"
+        },
+        {
+            "ID": "73",
+            "Brand": "Hot Sugar",
+            "Title": "Dark Chocolate Bites",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/remedytulalip%2FHot+Sugar+Milk+Choc+Bites.jpg-32684abb-fb30-421d-8997-7faaa8a8e455?tr=w-341.3333333333333"
+        },
+        {
+            "ID": "74",
+            "Brand": "Hot Sugar",
+            "Title": "Green Apple Fruit Drops",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/applechews.png?tr=w-320"
+        },
+        {
+            "ID": "75",
+            "Brand": "Hot Sugar",
+            "Title": "Milk Chocolate Bites",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/remedytulalip%2FHot+Sugar+Milk+Choc+Bites.jpg-32684abb-fb30-421d-8997-7faaa8a8e455?tr=w-341.3333333333333"
+        },
+        {
+            "ID": "76",
+            "Brand": "Hot Sugar",
+            "Title": "Orange Creme Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/orangecreme.png?tr=w-320"
+        },
+        {
+            "ID": "77",
+            "Brand": "Hot Sugar",
+            "Title": "Original Soft Caramel ",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot+Sugar+Soft+Caramel+Candies.jpg?tr=w-320"
+        },
+        {
+            "ID": "78",
+            "Brand": "Hot Sugar",
+            "Title": "Peach Mango Fruit Drops",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/peachmango.png?tr=w-320"
+        },
+        {
+            "ID": "79",
+            "Brand": "Hot Sugar",
+            "Title": "Peach Mango Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Peach%20Mango.jpg?tr=w-320"
+        },
+        {
+            "ID": "80",
+            "Brand": "Hot Sugar",
+            "Title": "Root Beer Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Root%20Beer.jpg?tr=w-320"
+        },
+        {
+            "ID": "81",
+            "Brand": "Hot Sugar",
+            "Title": "Soft Salted Caramels",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot+Sugar+Soft+Salted+Caramels.jpg?tr=w-320"
+        },
+        {
+            "ID": "82",
+            "Brand": "Hot Sugar",
+            "Title": "Sour Blue Raspberry Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FHot+Sugar+Sour+Blue+Raspberry.jpg-3b2dd3f9-dbd2-4a9d-b2ee-93d5359d7c8?tr=w-320"
+        },
+        {
+            "ID": "83",
+            "Brand": "Hot Sugar",
+            "Title": "Sour Lemon Pothead Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Lemon%20Pothead.jpg?tr=w-320"
+        },
+        {
+            "ID": "84",
+            "Brand": "Hot Sugar",
+            "Title": "Sour Watermelon Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot+Sugar+Sour+Watermelon+Panda+Candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "85",
+            "Brand": "Hot Sugar",
+            "Title": "Strawberry Kiwi Fruit Drops",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Fruit%20Drops%20Strawberry%20Kiwi.jpg?tr=w-320"
+        },
+        {
+            "ID": "86",
+            "Brand": "Hot Sugar",
+            "Title": "Strawberry Kiwi Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Strawberry%20Kiwi.jpg?tr=w-320"
+        },
+        {
+            "ID": "87",
+            "Brand": "Hot Sugar",
+            "Title": "Watermelon Fruit Drops",
+            "Type": "$20",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/watermelonfruit.png?tr=w-320"
+        },
+        {
+            "ID": "88",
+            "Brand": "Hot Sugar",
+            "Title": "Watermelon Panda Candies",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Hot%20Sugar%20Panda%20Candies%20Watermelon.jpg?tr=w-320"
+        },
+        {
+            "ID": "89",
+            "Brand": "Journeyman",
+            "Title": "Berry Jellies THC",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeryman+WA+berry+jellies+thc+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "90",
+            "Brand": "Journeyman",
+            "Title": "CBD Berry Jellies 1:1",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+WA+Berry+Jellies+1to1+cbd+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "91",
+            "Brand": "Journeyman",
+            "Title": "CBD Berry Jellies 30:1",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman%20CBD%20Berry%20Jellies.jpg?tr=w-320"
+        },
+        {
+            "ID": "92",
+            "Brand": "Journeyman",
+            "Title": "CBD Sour Jellies 1:1",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+Berry+Fruit+Jellies+Candy+Edible.jpg?tr=w-320"
+        },
+        {
+            "ID": "93",
+            "Brand": "Journeyman",
+            "Title": "CBD Tropical Jellies 1:1",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+WA+1to1+Tropical+Jellies+Variety+pack+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "94",
+            "Brand": "Journeyman",
+            "Title": "CBD Tropical Jellies 30:1",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+WA+Tropical+Jellies+CBD+30to1+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "95",
+            "Brand": "Journeyman",
+            "Title": "Sour Jellies",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+WA+Sour+Jellies+THC+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "96",
+            "Brand": "Journeyman",
+            "Title": "Tropical Jellies",
+            "Type": "$24",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Journeyman+WA+Tropical+THC+jellies+pineapple+mango+passion+fruit+variety+pack+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "97",
+            "Brand": "Khush Kush",
+            "Title": "Brown Sugar Pot-Tarts",
+            "Type": "$12",
+            "Price": "Hybrid",
+            "Amount": "(3pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Khush+Kush+Pot+Tarts.jpg?tr=w-320"
+        },
+        {
+            "ID": "98",
+            "Brand": "Khush Kush",
+            "Title": "Magic Bars",
+            "Type": "$10",
+            "Price": "Hybrid",
+            "Amount": "(3pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FMagic+Bars+KK.jpg-582cd4a6-9cbb-4cfc-9da3-3274e69c5234?tr=w-320"
+        },
+        {
+            "ID": "99",
+            "Brand": "Khush Kush",
+            "Title": "Pesto Pot Tarts",
+            "Type": "$12",
+            "Price": "Hybrid",
+            "Amount": "(3pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Khush+Kush+Pot+Tarts.jpg?tr=w-320"
+        },
+        {
+            "ID": "100",
+            "Brand": "Koko Gemz",
+            "Title": "Ruby Chocolate",
+            "Type": "$15",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/koko.png?tr=w-320"
+        },
+        {
+            "ID": "101",
+            "Brand": "Left Handed",
+            "Title": "Chocolate Chip Cookies",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/chocochip.png?tr=w-320"
+        },
+        {
+            "ID": "102",
+            "Brand": "Left Handed",
+            "Title": "Snickerdoodle Cookies",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FLH+Snickerdoodles.jpg-c22861b7-7370-40dc-8887-1ca1176d19f1?tr=w-320"
+        },
+        {
+            "ID": "103",
+            "Brand": "Lush",
+            "Title": "CBD Ginger Peach 1:1",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Lush+Ginger+Peach+Edible+Candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "104",
+            "Brand": "Lush",
+            "Title": "CBD Green Apple 1:1",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Lush+CBD+Green+Apple+Edible+Candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "105",
+            "Brand": "Lush",
+            "Title": "Hawaiian Mix ",
+            "Type": "$27",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Lush+Hawaiian+Mix.jpeg?tr=w-320"
+        },
+        {
+            "ID": "106",
+            "Brand": "Lush",
+            "Title": "Mango Lime",
+            "Type": "$6 - $27",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Lush+Mango+Lime.jpeg?tr=w-320"
+        },
+        {
+            "ID": "107",
+            "Brand": "Lush",
+            "Title": "Mixed Berry",
+            "Type": "$27",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Lush+Mixed+Berry.jpeg?tr=w-320"
+        },
+        {
+            "ID": "108",
+            "Brand": "Mr. Moxey's",
+            "Title": "CBD Cinnamon Mints 1:1",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Mr.+Moxey%27s+WA+Balance+Cinnamon+edible+mints+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "109",
+            "Brand": "Mr. Moxey's",
+            "Title": "CBD Dream Lavender Peppermint 3:1",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Mr.+Moxey%27s+WA+Dream+lavendar+mints+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "110",
+            "Brand": "Mr. Moxey's",
+            "Title": "CBD Ginger Mints",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Mr.+Moxey%27s+WA+Relief+Ginger+mints+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "111",
+            "Brand": "Mr. Moxey's",
+            "Title": "CBD Peppermint 25:1",
+            "Type": "$40",
+            "Price": "Hybrid",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Botanica+Moxey's+Mints+Peppermint+CBD.jpg?tr=w-320"
+        },
+        {
+            "ID": "112",
+            "Brand": "Mr. Moxey's",
+            "Title": "CBD Peppermints 1:1",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Botanica+Moxey's+Mints+Peppermint+CBD.jpg?tr=w-320"
+        },
+        {
+            "ID": "113",
+            "Brand": "Mr. Moxey's",
+            "Title": "Cinnamon Mints",
+            "Type": "$30",
+            "Price": "Indica",
+            "Amount": "(20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Botanica+Moxey's+Mints+Cinnamon.jpg?tr=w-320"
+        },
+        {
+            "ID": "114",
+            "Brand": "Mr. Moxey's",
+            "Title": "Peppermints",
+            "Type": "$4 - $30",
+            "Price": "Sativa",
+            "Amount": "(2pk - 20pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Botanica+Moxey's+Mints+Peppermint.jpg?tr=w-320"
+        },
+        {
+            "ID": "115",
+            "Brand": "Phat Panda",
+            "Title": "Strawberry Kiwi CBD 10:1 ",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FFruit-Drops-Strawberry-Kiwi-scaled-e1593842398530+%281%29.jpg-7e36525-80ab-4a1d-a513-a951b9e35dba?tr=w-320"
+        },
+        {
+            "ID": "116",
+            "Brand": "Phat Panda",
+            "Title": "Strawberry Kiwi CBD 1:1 ",
+            "Type": "$30",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FFruit-Drops-Strawberry-Kiwi-scaled-e1593842398530+%281%29.jpg-7e36525-80ab-4a1d-a513-a951b9e35dba?tr=w-320"
+        },
+        {
+            "ID": "117",
+            "Brand": "Pioneer Squares",
+            "Title": "Black & Blueberry Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixir+Pioneer+Squares+black+%26+blueberry+single+and+10pk+thc+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "118",
+            "Brand": "Pioneer Squares",
+            "Title": "CBD Black & Blueberry Fruit Noms",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneer+Squares+CBD+black+%26+blueberry+single+and+10pk+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "119",
+            "Brand": "Pioneer Squares",
+            "Title": "CBD Sour Cherry Fruit Noms",
+            "Type": "$33",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneer+Squares+Sour+Cherry+CBD.jpg?tr=w-320"
+        },
+        {
+            "ID": "120",
+            "Brand": "Pioneer Squares",
+            "Title": "Lemon Mandarin Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneer+Squares+Lemon+Mandarin+THC+single+and+10pk+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "121",
+            "Brand": "Pioneer Squares",
+            "Title": "Pineapple Crush Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneer+Squares+THC+pineapple+cruch+single+and+10pk+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "122",
+            "Brand": "Pioneer Squares",
+            "Title": "Pink Lemonade Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneers+Squares+thc+pink+lemonade+single+and+10pk+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "123",
+            "Brand": "Pioneer Squares",
+            "Title": "Sour Cherry Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+Elixirs+Pioneer+Squares+Sour+Cherry+THC+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "124",
+            "Brand": "Pioneer Squares",
+            "Title": "Watermelon Kiwi Fruit Noms",
+            "Type": "$6 - $33",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Craft+ELixirs+Pioneer+Squares+thc+watermelon+kiwi+single+and+10pk+edible+candy.jpg?tr=w-320"
+        },
+        {
+            "ID": "125",
+            "Brand": "Spot",
+            "Title": "CBD Indica Dark Chocolate 1:1",
+            "Type": "$35",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot%20Indica%2010-10%20THC-CBD%20Dark%20Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "126",
+            "Brand": "Spot",
+            "Title": "CBD Indica Milk Chocolate 1:1",
+            "Type": "$35",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot%20Indica%2010-10%20THC-CBD%20Milk%20Chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "127",
+            "Brand": "Spot",
+            "Title": "CBD Indica Orange Cream Fruit Chews 1:1",
+            "Type": "$35",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Indica+1-1+Orange+Cream+Fruit+Chews.jpg?tr=w-320"
+        },
+        {
+            "ID": "128",
+            "Brand": "Spot",
+            "Title": "CBD Indica Strawberry Fruit Chews 1:1",
+            "Type": "$35",
+            "Price": "Indica",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+1-1+Strawberry+Fruit+Chews.jpg?tr=w-320"
+        },
+        {
+            "ID": "129",
+            "Brand": "Spot",
+            "Title": "CBD Orange Cream Fruit Chews 10:3",
+            "Type": "$35",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Orange+Cream+Fruit+Chews+3-10+Hybrid.jpg?tr=w-320"
+        },
+        {
+            "ID": "130",
+            "Brand": "Spot",
+            "Title": "CBD Sativa Dark Chocolate 3:10",
+            "Type": "$35",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Dark+Chocolate+3-1+Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "131",
+            "Brand": "Spot",
+            "Title": "CBD Sativa Milk Chocolate 3:10",
+            "Type": "$35",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Milk+Chocolate+3-10+Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "132",
+            "Brand": "Spot",
+            "Title": "CBD Sativa Orange Cream Fruit Chews 3:10",
+            "Type": "$35",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Orange+Cream+Fruit+Chews+3-10+Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "133",
+            "Brand": "Spot",
+            "Title": "CBD Sativa Strawberry Fruit Chews 3:10",
+            "Type": "$35",
+            "Price": "Sativa",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Spot+Strawberry+Fruit+Chews+3-10+Sativa.jpg?tr=w-320"
+        },
+        {
+            "ID": "134",
+            "Brand": "Sweet Junes",
+            "Title": "Peanut Butter Cookies",
+            "Type": "$25",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Sweet+Junes+Peanut+Butter+Cookies+edible+baked+good.jpg?tr=w-320"
+        },
+        {
+            "ID": "135",
+            "Brand": "Sweet Junes",
+            "Title": "White Chocolate Cranberry Cookies",
+            "Type": "$25",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Sweet+Junes+WA+white+chocolate+cranberry+cookies+edible+baked+good.jpg?tr=w-320"
+        },
+        {
+            "ID": "136",
+            "Brand": "The 4.20 Bar",
+            "Title": " CBD 1:1 Dark Chocolate Sea Salt Bars",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/4.20+Bar+WA+Minis+dark+chocolate+sea+salt+1to1+edible.jpg?tr=w-320"
+        },
+        {
+            "ID": "137",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Dark Chocolate Espresso Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/4.20%20Minis%20Dark%20Chocolate%20Espresso%20Bars.jpg?tr=w-320"
+        },
+        {
+            "ID": "138",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Dark Chocolate Hazelnut Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Evergreen+Herbal+Chocolate+Hazelnut+Minis+copy.jpg?tr=w-320"
+        },
+        {
+            "ID": "139",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Dark Chocolate Sea Salt Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Evergreen+Herbal+Dark+Chocolate+Minis.jpg?tr=w-320"
+        },
+        {
+            "ID": "140",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Milk Chocolate Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Evergreen+Herbal+Milk+Chocolate+Minis.jpg?tr=w-320"
+        },
+        {
+            "ID": "141",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Milk Chocolate Hemp Crunch Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Evergreen+Herbal+Hemp+Crunch+Milk+Chocolate+Minis.jpg?tr=w-320"
+        },
+        {
+            "ID": "142",
+            "Brand": "The 4.20 Bar",
+            "Title": "4.20 Minis Milk Chocolate Toffee Bars",
+            "Type": "$22",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/4.20%20Minis%20Milk%20Chocolate%20Toffee%20Bars.jpg?tr=w-320"
+        },
+        {
+            "ID": "143",
+            "Brand": "The 4.20 Bar",
+            "Title": "CBD 1:1 4.20 Minis Milk Chocolate Bars",
+            "Type": "$30",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/4.20+Bar+WA+milk+chocolate+1to1+minis+edible.jpg?tr=w-320"
+        },
+        {
+            "ID": "144",
+            "Brand": "Verdelux",
+            "Title": "Bon Bombs Sugar Free Dark Chocolate",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelix+Bon+Bombs+dark+chocolate+sugar+free+edible+chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "145",
+            "Brand": "Verdelux",
+            "Title": "CBD 1:1 Meltaways Peanut Butter ",
+            "Type": "$8",
+            "Price": "High CBD",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/higherleaf%2FPeanut+Butter+Meltaway.png-ab96733e-14bf-4c50-bdce-9cc57527e4d?tr=w-320"
+        },
+        {
+            "ID": "146",
+            "Brand": "Verdelux",
+            "Title": "CBD Caramelo 1:1",
+            "Type": "$8",
+            "Price": "Hybrid",
+            "Amount": "(Single)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+WA+Caramelo+Meltaway+Truffles+edible+chocolate.jpg?tr=w-320"
+        },
+        {
+            "ID": "147",
+            "Brand": "Verdelux",
+            "Title": "CBD Milk Chocolate Bon Bombs",
+            "Type": "$35",
+            "Price": "High CBD",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+CBD%3ATHC+Milk+Chocolate.jpeg?tr=w-320"
+        },
+        {
+            "ID": "148",
+            "Brand": "Verdelux",
+            "Title": "Caramel Honey Bon Bombs",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+Honey+Caramel.jpg?tr=w-320"
+        },
+        {
+            "ID": "149",
+            "Brand": "Verdelux",
+            "Title": "Cherry Amaretto Bon Bombs",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Bon+Bombs+WA+logo.jpg?tr=w-320"
+        },
+        {
+            "ID": "150",
+            "Brand": "Verdelux",
+            "Title": "Cherry Illuminations",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Illuminations+Cherry.jpg?tr=w-320"
+        },
+        {
+            "ID": "151",
+            "Brand": "Verdelux",
+            "Title": "Classic Bon Bombs",
+            "Type": "$6 - $31",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+Classic+Milk+Chocolate.jpeg?tr=w-320"
+        },
+        {
+            "ID": "152",
+            "Brand": "Verdelux",
+            "Title": "Dark Chocolate Bon Bombs",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+Dark+Chocolate.jpeg?tr=w-320"
+        },
+        {
+            "ID": "153",
+            "Brand": "Verdelux",
+            "Title": "Hazelnut Bon Bombs",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+WA+logo.jpg?tr=w-320"
+        },
+        {
+            "ID": "154",
+            "Brand": "Verdelux",
+            "Title": "Lemon Mint Illuminations",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Illuminations+LemonMint.jpg?tr=w-320"
+        },
+        {
+            "ID": "155",
+            "Brand": "Verdelux",
+            "Title": "Lime Illuminations",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Illuminations+Lime.jpg?tr=w-320"
+        },
+        {
+            "ID": "156",
+            "Brand": "Verdelux",
+            "Title": "Mint Chocolate Bon Bombs",
+            "Type": "$32",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+Mint+Chocolate.jpeg?tr=w-320"
+        },
+        {
+            "ID": "157",
+            "Brand": "Verdelux",
+            "Title": "Raspberry Dark Chocolate Bon Bombs",
+            "Type": "$6 - $32",
+            "Price": "Hybrid",
+            "Amount": "(Single - 10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Bon+Bombs+Raspberry+Dark+Chocolate.jpeg?tr=w-320"
+        },
+        {
+            "ID": "158",
+            "Brand": "Verdelux",
+            "Title": "Sour Tangerine Illuminations",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Illuminations+Sour+Tangerine.jpg?tr=w-320"
+        },
+        {
+            "ID": "159",
+            "Brand": "Verdelux",
+            "Title": "Watermelon Illuminations",
+            "Type": "$18",
+            "Price": "Hybrid",
+            "Amount": "(10pk)",
+            "ImageLink": "https://ik.imagekit.io/qxmwvn2y0qb/Verdelux+Illuminations+Melon.jpg?tr=w-320"
+        }
+    ]
+}
